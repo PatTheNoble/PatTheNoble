@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Patrick Morris!
+- 👋 Hi, I’m Patrick Morris! (Game Dev, Gamer, Programmer)
