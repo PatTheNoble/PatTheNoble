@@ -1,1 +1,2 @@
-- 👋 Hi, I’m Patrick Morris! (Game Dev, Gamer, Programmer) 
+<h1> 👋 Hi, I’m Patrick Morris! </h1>
+Game Dev, Gamer, Programmer. ❤ coconut water.
